@@ -1,5 +1,5 @@
-x=int(input("enter a value"))
-if(x%2==0):
-	print("the number is Even")
+b=3
+if((b%2)==0):
+print("Even")
 else:
-	print("the number is Odd")
+print("Odd")
