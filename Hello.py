@@ -1,4 +1,4 @@
-h=int(input(""))
-g="Hello \n"
-k=g*h
-print (k)
+d=int(input(""))
+e="Hello"
+l=d*e
+print (l)
