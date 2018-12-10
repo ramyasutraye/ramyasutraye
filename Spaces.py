@@ -1,4 +1,4 @@
-string = input("enter the data:")
+string = input("")
 counter = 0
 for z in string:
     if z == ' ' or z == '\n':
