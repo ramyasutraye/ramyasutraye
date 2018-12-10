@@ -1,6 +1,6 @@
-d=int(input())
+b=int(input())
 count=0
-while(d>0):
-    b=int(d/10)
+while(b>0):
+    d=int(b/10)
     count=count+1
 print(count)
