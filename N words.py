@@ -1,3 +1,3 @@
-x=['aaaaaa','aa','aaaaaaaa','aaaa']
+x=['aac','ab','aa']
 x.sort()
 print(x)
