@@ -1,2 +1,2 @@
 z=input("")
-print("\n",z+".")
+print("\n",z+"")
