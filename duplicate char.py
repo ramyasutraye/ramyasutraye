@@ -1,5 +1,5 @@
 
-z = input()
+z = input("")
 y = [z[0]]
 for x in z :
     if x not in y :
