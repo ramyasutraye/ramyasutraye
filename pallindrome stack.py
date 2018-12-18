@@ -1,6 +1,6 @@
 z=input("")
 y=z[::-1]
 if z==y:
-    print("yes")
+    print("YES")
 else:
-    print("no")
+    print("NO")
