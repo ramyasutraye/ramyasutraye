@@ -1,3 +1,3 @@
-w,x=map(int,int().split)
+w,x=map(int,input().split())
 ans=pow(w,x)
 print(ans)
