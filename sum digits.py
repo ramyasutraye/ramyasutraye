@@ -1,0 +1,9 @@
+z=int(input())
+print(z)
+x=0
+v=z
+while(v>0):
+  y=v%10
+  x+=y*y
+  v=v//10
+print(x)
