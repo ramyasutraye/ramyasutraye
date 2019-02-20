@@ -1,10 +1,10 @@
-i=int(input())
-l=input().split()
-l.sort()
-su=0
-s=len(l)
-while(s>0):
-    a=int(l[s-1])
-    su=su*10+a
-    s-=1
-print(su)
+j=int(input())
+m=input().split()
+m.sort()
+ru=0
+r=len(m)
+while(r>0):
+    z=int(m[r-1])
+    ru=ru*10+z
+    r-=1
+print(ru)
